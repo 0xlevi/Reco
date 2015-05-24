@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameLogic\GameLogic.cs">
+    <Files>
+      <File FileName="Assets\DrawLine\DrawLine.cs" Line="251" Column="14" />
+      <File FileName="Assets\GUI\GUIBehavior.cs" Line="7" Column="28" />
+      <File FileName="Assets\GameLogic\GameEnv.cs" Line="19" Column="156" />
+      <File FileName="Assets\GameLogic\GameLogic.cs" Line="97" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
